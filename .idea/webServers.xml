@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="643019e6-db03-4679-9632-9518889f5381" name="3060">
+        <fileTransfer rootFolder="/home/code/TCAMixer" accessType="SFTP" host="10.32.59.101" port="22" sshConfigId="e53a26df-e9aa-46d4-a8fa-f77f0bc155d1" sshConfig="lxy@10.32.59.101:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
